@@ -1,0 +1,15 @@
+data <- read_excel("data/ipeadata[18-09-2018-08-30].xls")
+#set source dir#
+setwd('/Users/joaopedroalbino/Desktop/PredizendoNiveisdePobreza/Projeto_PredizendoPobrezas/R/Mapeando_Sao_Paulo/Map_SP')#
+#
+#install libs#
+install.packages("brazilmaps")#
+install.packages("WriteXLS")#
+install.packages("sf")#
+install.packages("readxl")#
+#
+#load libs#
+library(brazilmaps)#
+library("WriteXLS")#
+library("sf")#
+library("readxl")
