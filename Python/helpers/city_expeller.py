@@ -2,14 +2,14 @@ from urllib2 import urlopen
 import json
 import pandas as pd
 import unidecode
-
+import os
 
 # Sources: https://stackoverflow.com/questions/20169467/how-to-convert-from-longitude-and-latitude-to-country-or-city
 
 def getplace(lat, lon):
     url = "https://maps.googleapis.com/maps/api/geocode/json?"
     url += "latlng=%s,%s&sensor=false" % (lat, lon)
-    url += "&key=KEYNUMBER"
+    url += "&key=PUT_GOOGLE_API_KEY_HERE"
     v = urlopen(url).read()
     j = json.loads(v)
     try: 
@@ -27,7 +27,7 @@ def getplace(lat, lon):
 def getplacebycity(city):
     url = "https://maps.googleapis.com/maps/api/geocode/json?"
     url += "address=%s,+SP&sensor=true" % (city)
-    url += "&key=KEYNUMBER"
+    url += "&key=PUT_GOOGLE_API_KEY_HERE"
     url += "&components=country:BR"
     url += "&components=administrative_area_level_1:SP"
 
@@ -70,14 +70,18 @@ if __name__ == '__main__':
 
 	if user_input == 2:
 
-		df = pd.read_excel('../data/satellites/satellites-data.xlsx')
+		df = pd.read_excel('../../data/satellites/satellites-data.xlsx')
 		df['City'] = ''
 		df['State'] = ''
+		total = len(df.index)
+		cont = 1
 
 		for index, row in df.iterrows():
 			lat = row['LAT']
 			lon = row['LONG']
-			if(lat > -30) & (lon > -60) & (row['YEAR'] == 1992):
+			sat = row['SATELLITE']
+			if(lat > -30) & (lon > -60):
+				print '\b\r'
 				print "lat ="+str(lat)+" || lon = "+str(lon)
 				array = getplace(str(lat), str(lon))
 				if(array[0] != None):
@@ -91,11 +95,13 @@ if __name__ == '__main__':
 					print 'State = '+str(unidecode.unidecode(array[1]))
 				else:
 					df.set_value(index,'State','Erro')
+				print '|---  '+str(cont)+'/'+str(total)+' = '+str(cont/total)+' ---|'
+				
+				cont = cont+1
+			# if(row['YEAR'] > 1992):
+			# 	break
 
-			if(row['YEAR'] > 1992):
-				break
-
-		df.to_csv('../data/[final]cities_structured_data.csv', sep='\t', encoding='utf-8')
+		df.to_csv('../data/'+sat+'-data.csv', sep='\t', encoding='utf-8')
 
 	if user_input == 3:
 		df = pd.read_csv('../data/cities_name.csv')
