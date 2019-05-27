@@ -1,0 +1,646 @@
+Código IBGE do Município;Código da Unidade da Federação;Sigla da Unidade da Federação;Nome das Grandes Regiões;Código IBGE da Mesoregião;Nome da Mesoregião;Código IBGE da Microregião;Nome da Microregião;IDHM 1991;IDHM 2000;IDHM 2010
+350010;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,592;0,721;0,79
+350020;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,513;0,667;0,73
+350030;35;SP;Sudeste;3507;Campinas;35029;Pirassununga;0,491;0,642;0,715
+350040;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,576;0,692;0,781
+350050;35;SP;Sudeste;3507;Campinas;35033;Amparo;0,558;0,695;0,745
+350055;35;SP;Sudeste;3504;Bauru;35022;AvarÚ;0,559;0,668;0,757
+350060;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,634;0,791;0,854
+350070;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,513;0,669;0,745
+350075;35;SP;Sudeste;3511;Itapetininga;35042;Itapetininga;0,418;0,572;0,712
+350080;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,55;0,646;0,741
+350090;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,509;0,605;0,687
+350100;35;SP;Sudeste;3502;RibeirÒo Preto;35015;Batatais;0,483;0,658;0,73
+350110;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,48;0,616;0,7
+350115;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,515;0,682;0,766
+350120;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35003;Votuporanga;0,478;0,665;0,728
+350130;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,538;0,661;0,758
+350140;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,421;0,56;0,688
+350150;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,461;0,555;0,722
+350160;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,609;0,735;0,811
+350170;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,527;0,658;0,751
+350180;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35003;Votuporanga;0,489;0,644;0,745
+350190;35;SP;Sudeste;3507;Campinas;35033;Amparo;0,578;0,716;0,785
+350200;35;SP;Sudeste;3505;Araraquara;35025;SÒo Carlos;0,493;0,685;0,754
+350210;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,56;0,717;0,779
+350220;35;SP;Sudeste;3511;Itapetininga;35042;Itapetininga;0,435;0,612;0,719
+350230;35;SP;Sudeste;3504;Bauru;35023;Botucatu;0,477;0,626;0,721
+350240;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,513;0,585;0,741
+350250;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,569;0,689;0,755
+350260;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,468;0,626;0,721
+350270;35;SP;Sudeste;3511;Itapetininga;35044;CapÒo Bonito;0,442;0,605;0,71
+350275;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,426;0,602;0,704
+350280;35;SP;Sudeste;3503;Araþatuba;35017;Araþatuba;0,59;0,744;0,788
+350290;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,494;0,658;0,776
+350300;35;SP;Sudeste;3502;RibeirÒo Preto;35011;Ituverava;0,515;0,628;0,74
+350310;35;SP;Sudeste;3504;Bauru;35022;AvarÚ;0,397;0,584;0,685
+350315;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35052;Bananal;0,373;0,594;0,68
+350320;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,607;0,742;0,815
+350330;35;SP;Sudeste;3506;Piracicaba;35027;Limeira;0,573;0,71;0,781
+350335;35;SP;Sudeste;3509;MarÝlia;35037;TupÒ;0,408;0,636;0,722
+350340;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,478;0,662;0,744
+350350;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35052;Bananal;0,418;0,6;0,697
+350360;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,433;0,578;0,695
+350370;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,48;0,633;0,733
+350380;35;SP;Sudeste;3507;Campinas;35031;Moji Mirim;0,519;0,658;0,749
+350390;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35059;Guarulhos;0,524;0,67;0,784
+350395;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,434;0,629;0,735
+350400;35;SP;Sudeste;3510;Assis;35039;Assis;0,597;0,728;0,805
+350410;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,545;0,675;0,765
+350420;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35006;Auriflama;0,557;0,677;0,773
+350430;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,421;0,608;0,714
+350440;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,463;0,608;0,705
+350450;35;SP;Sudeste;3504;Bauru;35022;AvarÚ;0,541;0,683;0,767
+350460;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,525;0,688;0,746
+350470;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,536;0,639;0,669
+350480;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,525;0,705;0,756
+350490;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35052;Bananal;0,456;0,632;0,733
+350500;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,464;0,593;0,711
+350510;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,43;0,588;0,699
+350520;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,572;0,698;0,75
+350530;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,603;0,706;0,788
+350535;35;SP;Sudeste;3511;Itapetininga;35044;CapÒo Bonito;0,325;0,488;0,66
+350540;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,318;0,482;0,641
+350550;35;SP;Sudeste;3502;RibeirÒo Preto;35009;Barretos;0,558;0,71;0,789
+350560;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,409;0,591;0,725
+350570;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35057;Osasco;0,549;0,705;0,786
+350580;35;SP;Sudeste;3509;MarÝlia;35037;TupÒ;0,516;0,651;0,751
+350590;35;SP;Sudeste;3502;RibeirÒo Preto;35015;Batatais;0,519;0,695;0,761
+350600;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,607;0,736;0,801
+350610;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,548;0,695;0,78
+350620;35;SP;Sudeste;3503;Araþatuba;35017;Araþatuba;0,54;0,635;0,744
+350630;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,511;0,643;0,734
+350635;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35063;Santos;0,51;0,634;0,73
+350640;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,574;0,709;0,768
+350650;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,569;0,703;0,78
+350660;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35062;Mogi das Cruzes;0,489;0,603;0,712
+350670;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,415;0,602;0,681
+350680;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,544;0,677;0,742
+350690;35;SP;Sudeste;3504;Bauru;35023;Botucatu;0,429;0,616;0,705
+350700;35;SP;Sudeste;3511;Itapetininga;35043;TatuÝ;0,539;0,672;0,78
+350710;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,445;0,617;0,713
+350715;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,305;0,539;0,66
+350720;35;SP;Sudeste;3510;Assis;35039;Assis;0,506;0,649;0,746
+350730;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,47;0,637;0,754
+350740;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,493;0,63;0,73
+350745;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,482;0,578;0,705
+350750;35;SP;Sudeste;3504;Bauru;35023;Botucatu;0,588;0,718;0,8
+350760;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,553;0,687;0,776
+350770;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,524;0,669;0,737
+350775;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,437;0,597;0,71
+350780;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,546;0,665;0,755
+350790;35;SP;Sudeste;3506;Piracicaba;35026;Rio Claro;0,491;0,664;0,74
+350800;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,379;0,542;0,667
+350810;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,531;0,66;0,763
+350820;35;SP;Sudeste;3502;RibeirÒo Preto;35011;Ituverava;0,522;0,608;0,735
+350830;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,448;0,577;0,694
+350840;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,478;0,626;0,738
+350850;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35050;SÒo JosÚ dos Campos;0,542;0,694;0,788
+350860;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,553;0,676;0,764
+350870;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,456;0,619;0,72
+350880;35;SP;Sudeste;3504;Bauru;35019;Lins;0,504;0,654;0,742
+350890;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,48;0,626;0,729
+350900;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35058;Franco da Rocha;0,545;0,687;0,781
+350910;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,435;0,593;0,697
+350920;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35057;Osasco;0,501;0,634;0,728
+350925;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,434;0,579;0,694
+350930;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,505;0,617;0,734
+350940;35;SP;Sudeste;3502;RibeirÒo Preto;35015;Batatais;0,514;0,648;0,713
+350945;35;SP;Sudeste;3511;Itapetininga;35042;Itapetininga;0,364;0,592;0,717
+350950;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,618;0,735;0,805
+350960;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35047;JundiaÝ;0,507;0,678;0,769
+350970;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35049;Campos do JordÒo;0,507;0,653;0,749
+350980;35;SP;Sudeste;3510;Assis;35039;Assis;0,411;0,592;0,706
+350990;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,45;0,625;0,72
+350995;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,406;0,577;0,704
+351000;35;SP;Sudeste;3510;Assis;35039;Assis;0,519;0,656;0,747
+351010;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,485;0,629;0,789
+351015;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,37;0,545;0,68
+351020;35;SP;Sudeste;3511;Itapetininga;35044;CapÒo Bonito;0,428;0,579;0,721
+351030;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,433;0,573;0,699
+351040;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,565;0,655;0,75
+351050;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35054;Caraguatatuba;0,519;0,685;0,759
+351060;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35057;Osasco;0,519;0,644;0,749
+351070;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35003;Votuporanga;0,504;0,656;0,722
+351080;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,56;0,699;0,73
+351090;35;SP;Sudeste;3502;RibeirÒo Preto;35015;Batatais;0,487;0,643;0,734
+351100;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,502;0,634;0,731
+351110;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,582;0,705;0,785
+351120;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,472;0,632;0,751
+351130;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,528;0,657;0,766
+351140;35;SP;Sudeste;3504;Bauru;35022;AvarÚ;0,494;0,631;0,729
+351150;35;SP;Sudeste;3511;Itapetininga;35043;TatuÝ;0,559;0,713;0,782
+351160;35;SP;Sudeste;3511;Itapetininga;35043;TatuÝ;0,485;0,622;0,706
+351170;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,515;0,636;0,736
+351190;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,526;0,636;0,725
+351200;35;SP;Sudeste;3502;RibeirÒo Preto;35009;Barretos;0,522;0,663;0,757
+351210;35;SP;Sudeste;3502;RibeirÒo Preto;35009;Barretos;0,466;0,607;0,71
+351220;35;SP;Sudeste;3506;Piracicaba;35027;Limeira;0,468;0,602;0,708
+351230;35;SP;Sudeste;3504;Bauru;35023;Botucatu;0,538;0,658;0,736
+351240;35;SP;Sudeste;3506;Piracicaba;35027;Limeira;0,578;0,706;0,758
+351250;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,479;0,63;0,719
+351260;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,401;0,561;0,69
+351270;35;SP;Sudeste;3506;Piracicaba;35026;Rio Claro;0,48;0,641;0,754
+351280;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,529;0,665;0,769
+351290;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35003;Votuporanga;0,494;0,627;0,722
+351300;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35060;Itapecerica da Serra;0,557;0,693;0,78
+351310;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,521;0,668;0,756
+351320;35;SP;Sudeste;3502;RibeirÒo Preto;35012;Franca;0,441;0,609;0,734
+351330;35;SP;Sudeste;3510;Assis;35039;Assis;0,518;0,69;0,774
+351340;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,556;0,704;0,788
+351350;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35063;Santos;0,517;0,634;0,737
+351360;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35053;Paraibuna/Paraitinga;0,39;0,543;0,684
+351370;35;SP;Sudeste;3505;Araraquara;35025;SÒo Carlos;0,544;0,7;0,76
+351380;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35061;SÒo Paulo;0,528;0,664;0,757
+351385;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,468;0,644;0,741
+351390;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,464;0,63;0,734
+351400;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,471;0,625;0,718
+351410;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,529;0,642;0,725
+351420;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,504;0,647;0,742
+351430;35;SP;Sudeste;3505;Araraquara;35025;SÒo Carlos;0,544;0,658;0,738
+351440;35;SP;Sudeste;3508;Presidente Prudente;35034;Dracena;0,574;0,717;0,776
+351450;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,53;0,638;0,748
+351460;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,558;0,675;0,744
+351470;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,504;0,634;0,745
+351480;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,45;0,588;0,691
+351490;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,443;0,589;0,695
+351492;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,473;0,615;0,747
+351495;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,455;0,655;0,73
+351500;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35060;Itapecerica da Serra;0,487;0,63;0,735
+351510;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35060;Itapecerica da Serra;0,483;0,65;0,749
+351512;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,449;0,635;0,727
+351515;35;SP;Sudeste;3507;Campinas;35031;Moji Mirim;0,472;0,646;0,732
+351518;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,561;0,681;0,787
+351519;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,359;0,573;0,696
+351520;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,516;0,677;0,76
+351530;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,458;0,645;0,74
+351535;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,41;0,599;0,704
+351540;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,484;0,633;0,732
+351550;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,594;0,728;0,797
+351560;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,502;0,634;0,758
+351565;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,333;0,642;0,703
+351570;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35062;Mogi das Cruzes;0,48;0,637;0,738
+351580;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,501;0,639;0,727
+351590;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35006;Auriflama;0,535;0,664;0,747
+351600;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,493;0,622;0,715
+351610;35;SP;Sudeste;3510;Assis;35039;Assis;0,484;0,642;0,713
+351620;35;SP;Sudeste;3502;RibeirÒo Preto;35012;Franca;0,568;0,688;0,78
+351630;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35058;Franco da Rocha;0,444;0,571;0,703
+351640;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35058;Franco da Rocha;0,494;0,628;0,731
+351650;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,525;0,631;0,763
+351660;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,434;0,606;0,709
+351670;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,534;0,685;0,769
+351680;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35006;Auriflama;0,463;0,638;0,723
+351685;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,44;0,597;0,719
+351690;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35006;Auriflama;0,555;0,659;0,747
+351700;35;SP;Sudeste;3504;Bauru;35019;Lins;0,484;0,623;0,717
+351710;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,473;0,629;0,735
+351720;35;SP;Sudeste;3504;Bauru;35019;Lins;0,499;0,615;0,739
+351730;35;SP;Sudeste;3504;Bauru;35019;Lins;0,512;0,607;0,728
+351740;35;SP;Sudeste;3502;RibeirÒo Preto;35010;SÒo Joaquim da Barra;0,506;0,675;0,753
+351750;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,472;0,679;0,725
+351760;35;SP;Sudeste;3511;Itapetininga;35044;CapÒo Bonito;0,344;0,514;0,675
+351770;35;SP;Sudeste;3502;RibeirÒo Preto;35011;Ituverava;0,482;0,605;0,718
+351780;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,521;0,663;0,719
+351790;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,459;0,632;0,737
+351800;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,474;0,62;0,732
+351810;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,429;0,582;0,713
+351820;35;SP;Sudeste;3503;Araþatuba;35017;Araþatuba;0,564;0,687;0,763
+351830;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35062;Mogi das Cruzes;0,501;0,658;0,731
+351840;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,598;0,718;0,798
+351850;35;SP;Sudeste;3511;Itapetininga;35042;Itapetininga;0,404;0,579;0,687
+351860;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,485;0,603;0,719
+351870;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35063;Santos;0,497;0,636;0,751
+351880;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35059;Guarulhos;0,544;0,678;0,763
+351885;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,519;0,652;0,743
+351890;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35006;Auriflama;0,398;0,613;0,697
+351900;35;SP;Sudeste;3509;MarÝlia;35037;TupÒ;0,462;0,612;0,727
+351905;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,532;0,688;0,793
+351907;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,493;0,636;0,756
+351910;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,534;0,672;0,745
+351920;35;SP;Sudeste;3509;MarÝlia;35037;TupÒ;0,499;0,629;0,733
+351925;35;SP;Sudeste;3504;Bauru;35022;AvarÚ;0,404;0,568;0,674
+351930;35;SP;Sudeste;3505;Araraquara;35025;SÒo Carlos;0,442;0,616;0,703
+351940;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,504;0,65;0,74
+351950;35;SP;Sudeste;3510;Assis;35039;Assis;0,484;0,662;0,708
+351960;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,521;0,666;0,747
+351970;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35045;Piedade;0,408;0,577;0,71
+351980;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,508;0,646;0,72
+351990;35;SP;Sudeste;3510;Assis;35039;Assis;0,484;0,644;0,736
+352000;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,445;0,611;0,727
+352010;35;SP;Sudeste;3502;RibeirÒo Preto;35011;Ituverava;0,496;0,666;0,768
+352020;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35050;SÒo JosÚ dos Campos;0,427;0,603;0,711
+352030;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,473;0,632;0,726
+352040;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35054;Caraguatatuba;0,505;0,658;0,756
+352042;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,451;0,694;0,725
+352044;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,635;0,752;0,812
+352050;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,541;0,704;0,788
+352060;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,515;0,678;0,761
+352070;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,541;0,662;0,751
+352080;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,508;0,664;0,759
+352090;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,452;0,623;0,727
+352100;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,514;0,607;0,719
+352110;35;SP;Sudeste;3506;Piracicaba;35026;Rio Claro;0,505;0,669;0,753
+352115;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,49;0,652;0,73
+352120;35;SP;Sudeste;3511;Itapetininga;35044;CapÒo Bonito;0,356;0,581;0,703
+352130;35;SP;Sudeste;3502;RibeirÒo Preto;35010;SÒo Joaquim da Barra;0,485;0,639;0,749
+352140;35;SP;Sudeste;3506;Piracicaba;35027;Limeira;0,562;0,687;0,776
+352150;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35008;Novo Horizonte;0,456;0,616;0,713
+352160;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,507;0,645;0,712
+352170;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,436;0,571;0,693
+352180;35;SP;Sudeste;3504;Bauru;35022;AvarÚ;0,442;0,581;0,713
+352190;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35008;Novo Horizonte;0,506;0,643;0,73
+352200;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,522;0,643;0,705
+352210;35;SP;Sudeste;3514;Litoral Sul Paulista;35056;ItanhaÚm;0,523;0,652;0,745
+352215;35;SP;Sudeste;3511;Itapetininga;35044;CapÒo Bonito;0,364;0,533;0,68
+352220;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35060;Itapecerica da Serra;0,501;0,64;0,742
+352230;35;SP;Sudeste;3511;Itapetininga;35042;Itapetininga;0,532;0,662;0,763
+352240;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,458;0,619;0,732
+352250;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35057;Osasco;0,45;0,61;0,735
+352260;35;SP;Sudeste;3507;Campinas;35031;Moji Mirim;0,54;0,687;0,762
+352265;35;SP;Sudeste;3511;Itapetininga;35044;CapÒo Bonito;0,313;0,504;0,661
+352270;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,508;0,655;0,744
+352280;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,435;0,593;0,719
+352290;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,482;0,616;0,725
+352300;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,465;0,606;0,72
+352310;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35062;Mogi das Cruzes;0,443;0,592;0,714
+352320;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,449;0,588;0,703
+352330;35;SP;Sudeste;3514;Litoral Sul Paulista;35056;ItanhaÚm;0,449;0,596;0,677
+352340;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,554;0,705;0,778
+352350;35;SP;Sudeste;3504;Bauru;35022;AvarÚ;0,455;0,595;0,706
+352360;35;SP;Sudeste;3506;Piracicaba;35026;Rio Claro;0,512;0,665;0,724
+352370;35;SP;Sudeste;3502;RibeirÒo Preto;35012;Franca;0,446;0,586;0,707
+352380;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,455;0,607;0,717
+352390;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,55;0,697;0,773
+352400;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35047;JundiaÝ;0,452;0,662;0,762
+352410;35;SP;Sudeste;3502;RibeirÒo Preto;35011;Ituverava;0,556;0,701;0,765
+352420;35;SP;Sudeste;3502;RibeirÒo Preto;35010;SÒo Joaquim da Barra;0,473;0,619;0,711
+352430;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,579;0,699;0,778
+352440;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35050;SÒo JosÚ dos Campos;0,547;0,7;0,777
+352450;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,476;0,633;0,723
+352460;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,477;0,618;0,717
+352470;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,533;0,715;0,784
+352480;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,567;0,7;0,776
+352490;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35053;Paraibuna/Paraitinga;0,457;0,645;0,756
+352500;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35057;Osasco;0,484;0,667;0,76
+352510;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,503;0,66;0,735
+352520;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,446;0,604;0,733
+352530;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,575;0,705;0,778
+352540;35;SP;Sudeste;3502;RibeirÒo Preto;35012;Franca;0,363;0,535;0,703
+352550;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,425;0,589;0,699
+352560;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,438;0,621;0,741
+352570;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,539;0,681;0,777
+352580;35;SP;Sudeste;3504;Bauru;35019;Lins;0,481;0,613;0,716
+352585;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,506;0,641;0,741
+352590;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35047;JundiaÝ;0,602;0,744;0,822
+352600;35;SP;Sudeste;3508;Presidente Prudente;35034;Dracena;0,535;0,649;0,745
+352610;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,463;0,618;0,7
+352620;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35060;Itapecerica da Serra;0,417;0,583;0,709
+352630;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35053;Paraibuna/Paraitinga;0,428;0,583;0,693
+352640;35;SP;Sudeste;3511;Itapetininga;35043;TatuÝ;0,529;0,661;0,729
+352650;35;SP;Sudeste;3503;Araþatuba;35017;Araþatuba;0,502;0,646;0,721
+352660;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,474;0,618;0,729
+352670;35;SP;Sudeste;3506;Piracicaba;35027;Limeira;0,514;0,635;0,744
+352680;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,558;0,697;0,764
+352690;35;SP;Sudeste;3506;Piracicaba;35027;Limeira;0,561;0,7;0,775
+352700;35;SP;Sudeste;3507;Campinas;35033;Amparo;0,514;0,685;0,742
+352710;35;SP;Sudeste;3504;Bauru;35019;Lins;0,598;0,723;0,786
+352720;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,591;0,699;0,766
+352725;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,481;0,618;0,742
+352730;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35047;JundiaÝ;0,513;0,665;0,777
+352740;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,548;0,665;0,752
+352750;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,439;0,598;0,733
+352760;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,481;0,672;0,731
+352770;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,481;0,602;0,702
+352780;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,433;0,592;0,724
+352790;35;SP;Sudeste;3510;Assis;35039;Assis;0,467;0,657;0,72
+352800;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,522;0,641;0,77
+352810;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35007;Nhandeara;0,484;0,666;0,743
+352820;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,47;0,619;0,74
+352830;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35006;Auriflama;0,522;0,673;0,753
+352840;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,525;0,658;0,743
+352850;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35058;Franco da Rocha;0,533;0,682;0,788
+352860;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,484;0,63;0,739
+352870;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,415;0,584;0,677
+352880;35;SP;Sudeste;3510;Assis;35039;Assis;0,515;0,679;0,771
+352885;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35008;Novo Horizonte;0,41;0,613;0,752
+352890;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,488;0,634;0,718
+352900;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,601;0,725;0,798
+352910;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,486;0,597;0,731
+352920;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,516;0,645;0,721
+352930;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,517;0,687;0,773
+352940;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35061;SÒo Paulo;0,523;0,664;0,766
+352950;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,487;0,666;0,744
+352960;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,452;0,621;0,731
+352965;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,428;0,627;0,724
+352970;35;SP;Sudeste;3502;RibeirÒo Preto;35010;SÒo Joaquim da Barra;0,498;0,649;0,741
+352980;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,492;0,642;0,73
+352990;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,452;0,563;0,697
+353000;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,425;0,626;0,743
+353010;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,545;0,679;0,751
+353020;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,496;0,63;0,724
+353030;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,542;0,709;0,762
+353040;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,458;0,634;0,738
+353050;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,538;0,678;0,762
+353060;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35062;Mogi das Cruzes;0,566;0,701;0,783
+353070;35;SP;Sudeste;3507;Campinas;35031;Moji Mirim;0,563;0,701;0,774
+353080;35;SP;Sudeste;3507;Campinas;35031;Moji Mirim;0,574;0,718;0,784
+353090;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,526;0,606;0,719
+353100;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35007;Nhandeara;0,428;0,647;0,772
+353110;35;SP;Sudeste;3514;Litoral Sul Paulista;35056;ItanhaÚm;0,516;0,64;0,754
+353120;35;SP;Sudeste;3507;Campinas;35033;Amparo;0,504;0,675;0,759
+353130;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,574;0,703;0,768
+353140;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35007;Nhandeara;0,557;0,704;0,785
+353150;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,494;0,662;0,753
+353160;35;SP;Sudeste;3508;Presidente Prudente;35034;Dracena;0,461;0,639;0,741
+353170;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35049;Campos do JordÒo;0,466;0,613;0,71
+353180;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,46;0,62;0,733
+353190;35;SP;Sudeste;3502;RibeirÒo Preto;35010;SÒo Joaquim da Barra;0,483;0,619;0,712
+353200;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,513;0,646;0,715
+353205;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,496;0,655;0,741
+353210;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,566;0,668;0,726
+353215;35;SP;Sudeste;3510;Assis;35039;Assis;0,4;0,629;0,714
+353220;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,432;0,587;0,718
+353230;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35053;Paraibuna/Paraitinga;0,353;0,497;0,655
+353240;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,407;0,527;0,678
+353250;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35007;Nhandeara;0,516;0,693;0,754
+353260;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35007;Nhandeara;0,55;0,701;0,751
+353270;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35007;Nhandeara;0,439;0,607;0,713
+353280;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,564;0,666;0,738
+353282;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,234;0,525;0,651
+353284;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,367;0,612;0,715
+353286;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35006;Auriflama;0,435;0,633;0,756
+353290;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,545;0,678;0,765
+353300;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,508;0,654;0,739
+353310;35;SP;Sudeste;3508;Presidente Prudente;35034;Dracena;0,493;0,639;0,726
+353320;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,434;0,644;0,735
+353325;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,38;0,593;0,719
+353330;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35006;Auriflama;0,493;0,663;0,743
+353340;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,577;0,705;0,791
+353350;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35008;Novo Horizonte;0,546;0,679;0,753
+353360;35;SP;Sudeste;3502;RibeirÒo Preto;35010;SÒo Joaquim da Barra;0,501;0,643;0,746
+353370;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,504;0,628;0,717
+353380;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,511;0,631;0,73
+353390;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,539;0,686;0,773
+353400;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,47;0,615;0,738
+353410;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,526;0,667;0,77
+353420;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,535;0,669;0,767
+353430;35;SP;Sudeste;3502;RibeirÒo Preto;35010;SÒo Joaquim da Barra;0,578;0,701;0,78
+353440;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35057;Osasco;0,572;0,706;0,776
+353450;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,496;0,684;0,749
+353460;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,581;0,705;0,762
+353470;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,57;0,696;0,778
+353475;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,499;0,668;0,77
+353480;35;SP;Sudeste;3508;Presidente Prudente;35034;Dracena;0,407;0,578;0,692
+353490;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,517;0,66;0,725
+353500;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,517;0,635;0,732
+353510;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,433;0,574;0,722
+353520;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,48;0,653;0,753
+353530;35;SP;Sudeste;3510;Assis;35039;Assis;0,501;0,671;0,746
+353540;35;SP;Sudeste;3508;Presidente Prudente;35034;Dracena;0,469;0,635;0,722
+353550;35;SP;Sudeste;3510;Assis;35039;Assis;0,539;0,663;0,762
+353560;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35053;Paraibuna/Paraitinga;0,418;0,623;0,719
+353570;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,513;0,631;0,749
+353580;35;SP;Sudeste;3504;Bauru;35022;AvarÚ;0,45;0,613;0,717
+353590;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,493;0,644;0,732
+353600;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,492;0,625;0,737
+353610;35;SP;Sudeste;3504;Bauru;35023;Botucatu;0,4;0,627;0,727
+353620;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,49;0,623;0,736
+353625;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35003;Votuporanga;0,459;0,646;0,721
+353630;35;SP;Sudeste;3502;RibeirÒo Preto;35012;Franca;0,481;0,658;0,73
+353640;35;SP;Sudeste;3508;Presidente Prudente;35034;Dracena;0,422;0,603;0,711
+353650;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,597;0,722;0,795
+353657;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,451;0,63;0,718
+353660;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,505;0,643;0,725
+353670;35;SP;Sudeste;3504;Bauru;35021;Ja·;0,525;0,663;0,739
+353680;35;SP;Sudeste;3507;Campinas;35033;Amparo;0,377;0,548;0,677
+353690;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,526;0,611;0,742
+353700;35;SP;Sudeste;3502;RibeirÒo Preto;35012;Franca;0,508;0,626;0,715
+353710;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,551;0,667;0,769
+353715;35;SP;Sudeste;3510;Assis;35039;Assis;0,594;0,73;0,774
+353720;35;SP;Sudeste;3514;Litoral Sul Paulista;35056;ItanhaÚm;0,465;0,595;0,696
+353730;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,539;0,686;0,759
+353740;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,545;0,664;0,766
+353750;35;SP;Sudeste;3511;Itapetininga;35043;TatuÝ;0,527;0,648;0,736
+353760;35;SP;Sudeste;3514;Litoral Sul Paulista;35056;ItanhaÚm;0,493;0,655;0,749
+353770;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,493;0,644;0,732
+353780;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35045;Piedade;0,448;0,617;0,716
+353790;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35045;Piedade;0,438;0,623;0,69
+353800;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35050;SÒo JosÚ dos Campos;0,549;0,694;0,773
+353810;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,523;0,645;0,737
+353820;35;SP;Sudeste;3507;Campinas;35033;Amparo;0,445;0,613;0,725
+353830;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,453;0,619;0,711
+353850;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,563;0,69;0,757
+353860;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,461;0,62;0,739
+353870;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,58;0,71;0,785
+353880;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,515;0,667;0,758
+353890;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,534;0,669;0,749
+353900;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,541;0,674;0,756
+353910;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35057;Osasco;0,423;0,621;0,727
+353920;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,52;0,668;0,776
+353930;35;SP;Sudeste;3507;Campinas;35029;Pirassununga;0,602;0,715;0,801
+353940;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,567;0,683;0,779
+353950;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,498;0,627;0,723
+353960;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,479;0,605;0,719
+353970;35;SP;Sudeste;3510;Assis;35039;Assis;0,421;0,564;0,719
+353980;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35062;Mogi das Cruzes;0,534;0,699;0,771
+353990;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35007;Nhandeara;0,571;0,7;0,766
+354000;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,55;0,719;0,786
+354010;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,512;0,669;0,755
+354020;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,49;0,595;0,725
+354025;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,426;0,602;0,702
+354030;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35003;Votuporanga;0,481;0,621;0,732
+354040;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,497;0,601;0,714
+354050;35;SP;Sudeste;3511;Itapetininga;35043;TatuÝ;0,484;0,619;0,703
+354060;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,512;0,646;0,758
+354070;35;SP;Sudeste;3507;Campinas;35029;Pirassununga;0,567;0,688;0,751
+354075;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,461;0,6;0,697
+354080;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,523;0,674;0,747
+354085;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,317;0,57;0,696
+354090;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,558;0,644;0,733
+354100;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35063;Santos;0,538;0,686;0,754
+354105;35;SP;Sudeste;3504;Bauru;35023;Botucatu;0,458;0,621;0,701
+354110;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,498;0,642;0,735
+354120;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,568;0,671;0,757
+354130;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,531;0,665;0,75
+354140;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,623;0,746;0,806
+354150;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,542;0,701;0,763
+354160;35;SP;Sudeste;3504;Bauru;35019;Lins;0,521;0,653;0,743
+354165;35;SP;Sudeste;3511;Itapetininga;35043;TatuÝ;0,394;0,567;0,678
+354170;35;SP;Sudeste;3510;Assis;35039;Assis;0,474;0,653;0,738
+354180;35;SP;Sudeste;3509;MarÝlia;35037;TupÒ;0,48;0,572;0,715
+354190;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,448;0,615;0,722
+354200;35;SP;Sudeste;3509;MarÝlia;35037;TupÒ;0,477;0,634;0,732
+354210;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,516;0,648;0,745
+354220;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,557;0,68;0,751
+354230;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35053;Paraibuna/Paraitinga;0,402;0,552;0,657
+354240;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,532;0,691;0,768
+354250;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,488;0,64;0,728
+354260;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,509;0,65;0,754
+354270;35;SP;Sudeste;3502;RibeirÒo Preto;35012;Franca;0,439;0,62;0,705
+354280;35;SP;Sudeste;3511;Itapetininga;35044;CapÒo Bonito;0,416;0,574;0,698
+354290;35;SP;Sudeste;3505;Araraquara;35025;SÒo Carlos;0,485;0,645;0,712
+354300;35;SP;Sudeste;3511;Itapetininga;35044;CapÒo Bonito;0,306;0,462;0,639
+354310;35;SP;Sudeste;3502;RibeirÒo Preto;35012;Franca;0,441;0,572;0,711
+354320;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,484;0,603;0,747
+354323;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,478;0,612;0,721
+354325;35;SP;Sudeste;3511;Itapetininga;35044;CapÒo Bonito;0,296;0,56;0,705
+354330;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35061;SÒo Paulo;0,58;0,718;0,784
+354340;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,626;0,733;0,8
+354350;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,405;0,555;0,664
+354360;35;SP;Sudeste;3502;RibeirÒo Preto;35012;Franca;0,438;0,624;0,74
+354370;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,501;0,634;0,734
+354380;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,456;0,655;0,723
+354390;35;SP;Sudeste;3506;Piracicaba;35026;Rio Claro;0,611;0,734;0,803
+354400;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,507;0,664;0,759
+354410;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35061;SÒo Paulo;0,498;0,625;0,749
+354420;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35003;Votuporanga;0,487;0,602;0,703
+354425;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,54;0,688;0,764
+354430;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35051;Guaratinguetß;0,485;0,642;0,737
+354440;35;SP;Sudeste;3503;Araþatuba;35017;Araþatuba;0,527;0,637;0,721
+354450;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,524;0,677;0,759
+354460;35;SP;Sudeste;3504;Bauru;35019;Lins;0,44;0,623;0,728
+354470;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,439;0,601;0,73
+354480;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35008;Novo Horizonte;0,476;0,647;0,751
+354490;35;SP;Sudeste;3502;RibeirÒo Preto;35010;SÒo Joaquim da Barra;0,553;0,659;0,772
+354500;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35062;Mogi das Cruzes;0,473;0,621;0,732
+354510;35;SP;Sudeste;3508;Presidente Prudente;35035;Adamantina;0,446;0,607;0,719
+354515;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,573;0,751;0,791
+354520;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,526;0,693;0,78
+354530;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,46;0,63;0,729
+354540;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,48;0,623;0,704
+354550;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,513;0,646;0,709
+354560;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,491;0,643;0,76
+354570;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,468;0,657;0,728
+354580;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,532;0,688;0,781
+354600;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35050;SÒo JosÚ dos Campos;0,5;0,657;0,735
+354610;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,465;0,608;0,733
+354620;35;SP;Sudeste;3506;Piracicaba;35027;Limeira;0,569;0,691;0,79
+354625;35;SP;Sudeste;3502;RibeirÒo Preto;35015;Batatais;0,536;0,674;0,743
+354630;35;SP;Sudeste;3507;Campinas;35029;Pirassununga;0,493;0,632;0,728
+354640;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,547;0,672;0,762
+354650;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,49;0,644;0,738
+354660;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,584;0,706;0,784
+354670;35;SP;Sudeste;3506;Piracicaba;35027;Limeira;0,554;0,644;0,737
+354680;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35059;Guarulhos;0,456;0,628;0,738
+354690;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,445;0,669;0,737
+354700;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,436;0,59;0,686
+354710;35;SP;Sudeste;3508;Presidente Prudente;35034;Dracena;0,467;0,631;0,739
+354720;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,474;0,683;0,773
+354730;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35057;Osasco;0,554;0,713;0,814
+354740;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,482;0,632;0,761
+354750;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,581;0,721;0,775
+354760;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,559;0,655;0,77
+354765;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,455;0,673;0,772
+354770;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,537;0,684;0,753
+354780;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35061;SÒo Paulo;0,63;0,738;0,815
+354790;35;SP;Sudeste;3502;RibeirÒo Preto;35015;Batatais;0,466;0,607;0,702
+354800;35;SP;Sudeste;3507;Campinas;35031;Moji Mirim;0,484;0,619;0,702
+354805;35;SP;Sudeste;3503;Araþatuba;35017;Araþatuba;0,447;0,659;0,757
+354810;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,463;0,615;0,714
+354820;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35049;Campos do JordÒo;0,442;0,616;0,706
+354830;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,519;0,666;0,732
+354840;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,51;0,642;0,74
+354850;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35063;Santos;0,689;0,785;0,84
+354860;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35049;Campos do JordÒo;0,467;0,601;0,72
+354870;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35061;SÒo Paulo;0,642;0,74;0,805
+354880;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35061;SÒo Paulo;0,697;0,82;0,862
+354890;35;SP;Sudeste;3505;Araraquara;35025;SÒo Carlos;0,62;0,736;0,805
+354900;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,445;0,631;0,723
+354910;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,585;0,722;0,797
+354920;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,49;0,642;0,72
+354925;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35006;Auriflama;0,406;0,677;0,748
+354930;35;SP;Sudeste;3508;Presidente Prudente;35034;Dracena;0,517;0,641;0,75
+354940;35;SP;Sudeste;3502;RibeirÒo Preto;35010;SÒo Joaquim da Barra;0,515;0,686;0,762
+354950;35;SP;Sudeste;3502;RibeirÒo Preto;35012;Franca;0,459;0,581;0,693
+354960;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35052;Bananal;0,405;0,614;0,684
+354970;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,557;0,701;0,774
+354980;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,61;0,745;0,797
+354990;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35050;SÒo JosÚ dos Campos;0,607;0,739;0,807
+354995;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35060;Itapecerica da Serra;0,449;0,6;0,728
+355000;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35053;Paraibuna/Paraitinga;0,457;0,575;0,697
+355010;35;SP;Sudeste;3504;Bauru;35023;Botucatu;0,496;0,645;0,744
+355020;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35045;Piedade;0,447;0,587;0,71
+355030;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35061;SÒo Paulo;0,626;0,733;0,805
+355040;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,524;0,677;0,755
+355050;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,438;0,599;0,703
+355060;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,53;0,69;0,768
+355070;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35054;Caraguatatuba;0,52;0,663;0,772
+355080;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,479;0,606;0,701
+355090;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,563;0,689;0,766
+355100;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35063;Santos;0,561;0,689;0,768
+355110;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,463;0,598;0,707
+355120;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,431;0,534;0,688
+355130;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35007;Nhandeara;0,491;0,671;0,773
+355140;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,428;0,596;0,686
+355150;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,513;0,612;0,729
+355160;35;SP;Sudeste;3507;Campinas;35033;Amparo;0,575;0,704;0,767
+355170;35;SP;Sudeste;3502;RibeirÒo Preto;35014;RibeirÒo Preto;0,551;0,692;0,761
+355180;35;SP;Sudeste;3514;Litoral Sul Paulista;35055;Registro;0,447;0,546;0,673
+355190;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,465;0,638;0,715
+355200;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35052;Bananal;0,419;0,574;0,678
+355210;35;SP;Sudeste;3507;Campinas;35033;Amparo;0,477;0,63;0,729
+355220;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,579;0,721;0,798
+355230;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,495;0,649;0,747
+355240;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,506;0,658;0,762
+355250;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35062;Mogi das Cruzes;0,529;0,662;0,765
+355255;35;SP;Sudeste;3503;Araþatuba;35016;Andradina;0,446;0,591;0,699
+355260;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35005;Catanduva;0,483;0,658;0,735
+355270;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,449;0,606;0,704
+355280;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35060;Itapecerica da Serra;0,562;0,689;0,769
+355290;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,47;0,621;0,723
+355300;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,46;0,611;0,709
+355310;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,421;0,62;0,71
+355320;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,552;0,697;0,76
+355330;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,5;0,621;0,731
+355340;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,531;0,668;0,748
+355350;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35045;Piedade;0,446;0,579;0,681
+355360;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,462;0,643;0,751
+355365;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,468;0,627;0,759
+355370;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,515;0,664;0,748
+355380;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,42;0,591;0,701
+355385;35;SP;Sudeste;3511;Itapetininga;35041;Itapeva;0,351;0,498;0,679
+355390;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,487;0,611;0,726
+355395;35;SP;Sudeste;3510;Assis;35039;Assis;0,469;0,654;0,753
+355400;35;SP;Sudeste;3511;Itapetininga;35043;TatuÝ;0,54;0,672;0,752
+355410;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35050;SÒo JosÚ dos Campos;0,6;0,734;0,8
+355420;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,336;0,54;0,668
+355430;35;SP;Sudeste;3508;Presidente Prudente;35036;Presidente Prudente;0,485;0,625;0,741
+355440;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,484;0,609;0,749
+355450;35;SP;Sudeste;3506;Piracicaba;35028;Piracicaba;0,557;0,698;0,778
+355460;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,396;0,593;0,71
+355465;35;SP;Sudeste;3511;Itapetininga;35043;TatuÝ;0,492;0,575;0,714
+355470;35;SP;Sudeste;3506;Piracicaba;35026;Rio Claro;0,546;0,667;0,744
+355475;35;SP;Sudeste;3505;Araraquara;35024;Araraquara;0,356;0,571;0,722
+355480;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35050;SÒo JosÚ dos Campos;0,563;0,705;0,785
+355490;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,491;0,646;0,753
+355495;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,391;0,604;0,728
+355500;35;SP;Sudeste;3509;MarÝlia;35037;TupÒ;0,562;0,691;0,771
+355510;35;SP;Sudeste;3508;Presidente Prudente;35034;Dracena;0,566;0,713;0,769
+355520;35;SP;Sudeste;3503;Araþatuba;35018;Birigui;0,519;0,67;0,751
+355530;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35002;Fernand¾polis;0,522;0,653;0,736
+355535;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,368;0,596;0,7
+355540;35;SP;Sudeste;3513;Vale do ParaÝba Paulista;35054;Caraguatatuba;0,518;0,633;0,751
+355550;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,391;0,586;0,727
+355560;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,529;0,652;0,721
+355570;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35007;Nhandeara;0,472;0,597;0,749
+355580;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,485;0,655;0,746
+355590;35;SP;Sudeste;3504;Bauru;35020;Bauru;0,494;0,645;0,712
+355600;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35008;Novo Horizonte;0,519;0,686;0,745
+355610;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35003;Votuporanga;0,499;0,651;0,735
+355620;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,597;0,741;0,819
+355630;35;SP;Sudeste;3503;Araþatuba;35017;Araþatuba;0,494;0,669;0,725
+355635;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35048;Braganþa Paulista;0,428;0,596;0,699
+355640;35;SP;Sudeste;3507;Campinas;35030;SÒo JoÒo da Boa Vista;0,489;0,635;0,737
+355645;35;SP;Sudeste;3515;Metropolitana de SÒo Paulo;35060;Itapecerica da Serra;0,485;0,659;0,77
+355650;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35047;JundiaÝ;0,477;0,646;0,759
+355660;35;SP;Sudeste;3509;MarÝlia;35038;MarÝlia;0,515;0,665;0,754
+355670;35;SP;Sudeste;3507;Campinas;35032;Campinas;0,581;0,749;0,817
+355680;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,502;0,646;0,739
+355690;35;SP;Sudeste;3502;RibeirÒo Preto;35013;Jaboticabal;0,505;0,668;0,744
+355695;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35001;Jales;0,49;0,571;0,725
+355700;35;SP;Sudeste;3512;Macro Metropolitana Paulista;35046;Sorocaba;0,527;0,688;0,767
+355710;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35003;Votuporanga;0,571;0,723;0,79
+355715;35;SP;Sudeste;3501;SÒo JosÚ do Rio Preto;35004;SÒo JosÚ do Rio Preto;0,488;0,64;0,729
+355720;35;SP;Sudeste;3510;Assis;35040;Ourinhos;0,47;0,642;0,729
+355730;35;SP;Sudeste;3507;Campinas;35031;Moji Mirim;0,485;0,638;0,74
