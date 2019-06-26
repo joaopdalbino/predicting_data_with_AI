@@ -23,3 +23,8 @@ if __name__ == '__main__':
 	print df_sort
 
 	print '2 - Mean City: '+str(df_sort['CITY'].values)+' by GDP (PIB in Brazil) = '+str(df_sort['PER CAPITA'].values)
+
+	plt.title('Scatter plot pythonspot.com')
+	plt.xlabel('x')
+	plt.ylabel('y')
+	plt.show()

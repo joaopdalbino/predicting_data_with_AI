@@ -1,10 +1,12 @@
 import pandas as pd
+import numpy as np
 import os
 import csv
 import time
 import sys 
 import xlrd
 from sklearn.cluster import KMeans
+from sklearn.cluster import AgglomerativeClustering
 
 file_social_data = '../../data/social/PIBMunicipal_2010.csv'
 df_social = pd.read_csv(file_social_data, delimiter=';', decimal=',')
@@ -60,5 +62,4 @@ if __name__ == '__main__':
 	df_social = formatting_data(df_social)
 
 	scorer_GDP(df_social)
-
-	# scorer_kmeans(df_social)
+	scorer_kmeans(df_social)

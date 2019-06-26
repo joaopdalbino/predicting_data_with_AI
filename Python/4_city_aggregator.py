@@ -95,20 +95,20 @@ if __name__ == '__main__':
 
 	for sat in satellites:
 		
-		# if sat == 'F10':
-		# 	for n in range(1992, 1995): works_with_csv(sat, n)
+		if sat == 'F10':
+			for n in range(1992, 1995): works_with_csv(sat, n)
 
-		# if sat == 'F12': 
-		# 	for n in range(1994, 2000): works_with_csv(sat, n)
+		if sat == 'F12': 
+			for n in range(1994, 2000): works_with_csv(sat, n)
 		
-		# if sat == 'F14': 
-		# 	for n in range(1997, 2004): works_with_csv(sat, n)
+		if sat == 'F14': 
+			for n in range(1997, 2004): works_with_csv(sat, n)
 
 		if sat == 'F15': 
 			for n in range(2007, 2009): works_with_csv(sat, n)
 
-		# if sat == 'F16': 
-		# 	for n in range(2004, 2010): works_with_csv(sat, n)
+		if sat == 'F16': 
+			for n in range(2004, 2010): works_with_csv(sat, n)
 
-		# if sat == 'F18':
-		# 	works_with_csv(sat, 2010)
+		if sat == 'F18':
+			works_with_csv(sat, 2010)

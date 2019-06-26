@@ -14,15 +14,16 @@ library("sf")
 library("readxl")
 
 #extract data from excel
-data <- read_excel("data/ipeadata[18-09-2018-08-30].xls")
+data_basic <- read.csv("results/accuracy_validation_GDP.csv", sep = ';')
+data_basic <- read.csv("results/accuracy_validation_KMEANS.csv", sep = ';')
 
 #convert collum Codigo to numeric
-data$Codigo <- as.numeric(as.character(data$Codigo))
+data_basic$CITY_CODE <- as.numeric(as.character(data_basic$CITY_CODE))
 
 #get data about State of Sao Paulo from brazilmaps lib
 sao_paulo <- get_brmap(geo = "City", geo.filter = list(State = 35), class = "sf")
-sao_paulo <- join_data(sao_paulo, data, by = c("City" = "Codigo"))
-plot(sao_paulo["2000"])
+sao_paulo <- join_data(sao_paulo, data_basic, by = c("City" = "CITY_CODE"))
+plot(sao_paulo['KMEANS'])
 
 #This function gets max and min lat and lon from the State of SP
 sao_paulo <- get_brmap(geo = "State", geo.filter = list(State = 35), class = "sf")
