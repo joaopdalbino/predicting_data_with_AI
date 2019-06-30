@@ -23,7 +23,7 @@ data_basic$CITY_CODE <- as.numeric(as.character(data_basic$CITY_CODE))
 #get data about State of Sao Paulo from brazilmaps lib
 sao_paulo <- get_brmap(geo = "City", geo.filter = list(State = 35), class = "sf")
 sao_paulo <- join_data(sao_paulo, data_basic, by = c("City" = "CITY_CODE"))
-plot(sao_paulo['KMEANS'])
+plot(sao_paulo['GDP'])
 
 #This function gets max and min lat and lon from the State of SP
 sao_paulo <- get_brmap(geo = "State", geo.filter = list(State = 35), class = "sf")

@@ -1,8 +1,9 @@
 wd <- getwd()
 setwd(wd)
 
-df <- read.csv("data/social/ipeadata/income - 1991 until 2000.csv")
+df <- read.csv("results/accuracy_validation_KMEANS.csv")
+df_uniq <- unique(df)
+count(df_uniq)
 
-min <- df[min(df[,"X2000"], na.rm=T), "City.Name"]
-
-max <- df[max(df[,"X2000"], na.rm=T), "City.Name"]
+sum(!duplicated(df$CITY))
+425/645

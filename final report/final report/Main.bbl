@@ -30,17 +30,25 @@ R.~Barros, R.~Henriques, and R.~Mendon\c{c}a, ``A estabilidade inaceit\'avel:
   Desigualdade e pobreza no brasil,'' \emph{Institui\c{c}\~ao de Pesquisa
   Econ\^omica Aplicada}, p.~29, 2001.
 
-\bibitem{ref1}
-J.~Blumenstock, G.~Cadamuro, and R.~On, ``Predicting poverty and wealth from
-  mobile phone metadata,'' \emph{Science}, 2015.
+\bibitem{ref_govdata}
+\BIBentryALTinterwordspacing
+``Govdata representa a transformação digital do estado,'' 2018, [Online;
+  Acessado 27 de Junho 2019]. [Online]. Available:
+  \url{http://www.serpro.gov.br/menu/noticias/noticias-2018/govdata-representa-a-transformacao-digital-do-estado}
+\BIBentrySTDinterwordspacing
 
-\bibitem{ref2}
-J.~Henderson, A.~Storeygard, and D.~Weil, ``Measuring economic growth from
-  outer space,'' \emph{American Economic Review}, 2012.
+\bibitem{ref_opendata}
+\BIBentryALTinterwordspacing
+``Open data - about,'' 2019, [Online; Acessado 27 de Junho 2019]. [Online].
+  Available: \url{http://opendata.dc.gov}
+\BIBentrySTDinterwordspacing
 
 \bibitem{ref_nacoes}
+\BIBentryALTinterwordspacing
 ``Onu: Pa\'{\i}ses chegam a acordo sobre nova agenda de desenvolvimento
-  p\'os-2015,'' 2015, [Online; Acessado 20 de Julho 2018].
+  p\'os-2015,'' 2015, [Online; Acessado 20 de Julho 2018]. [Online]. Available:
+  \url{https://nacoesunidas.org/onu-paises-chegam-a-acordo-sobre-nova-agenda-de-desenvolvimento-pos-2015/}
+\BIBentrySTDinterwordspacing
 
 \bibitem{ref_extrema_pobreza}
 \BIBentryALTinterwordspacing
@@ -59,11 +67,60 @@ R.~Lazarotto, ``Disitribui\c{c}\~ao de renda no brasil - uma an\'alise
   \url{https://censo2010.ibge.gov.br/materiais/guia-do-censo/operacao-censitaria.html}
 \BIBentrySTDinterwordspacing
 
-\bibitem{ref_Krizhevsky}
-J.~Henderson, A.~Storeygar, and D.~Weil, ``Measuring economic growth from outer
-  space,'' \emph{American Economic Review}, 2012.
+\bibitem{ref_ebener}
+S.~e.~a. Ebener, ``Wealth to health: Modelling the distribution of income per
+  capita at the sub-national level using night-time light imagery,'' 2005.
 
-\bibitem{ref_Torrey}
-L.~Torrey and J.~Shavlik, ``Transfer learning,'' p.~22, 2009.
+\bibitem{ref_mapping_dmsp}
+C.~e.~a. Elvidge, ``Mapping city lights with nighttime data from the dmsp
+  operational linescan system,'' 1997.
+
+\bibitem{ref_rossetti}
+J.~Rossetti, ``Introdução à economia,'' \emph{Atlas}, 1972.
+
+\bibitem{ref_nunes}
+D.~Nunes, ``Um breve estudo sobre o algoritmo k-means,'' \emph{Universidade de
+  Coimbra}, 2016.
+
+\bibitem{ref_kmeans}
+\BIBentryALTinterwordspacing
+``K-means,'' 2013, [Online; Acessado 27 de Junho 2019]. [Online]. Available:
+  \url{https://shapeofdata.wordpress.com/2013/07/30/k-means/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ref_sonagara}
+S.~Sonagara, D.;~Badheka, ``Comparison of basic clustering algorithms,''
+  \emph{A Monthly Journal of Computer Science and Information Technology},
+  2014.
+
+\bibitem{ref_svm}
+\BIBentryALTinterwordspacing
+``Como classificar dados usando svm no r,'' [Online; Acessado 27 de Junho
+  2019]. [Online]. Available:
+  \url{https://2engenheiros.com/2017/07/24/classificar-dados-svm-no-r/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ref_towardsdata}
+\BIBentryALTinterwordspacing
+``Support vector machine - introduction to machine learning algorithms,'' 2018,
+  [Online; Acessado 20 de Junho 2019]. [Online]. Available:
+  \url{https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ref_moro}
+R.~A. Auria, L;~Moro, ``Support vector machines (svm) as a technique for
+  solvency analysis,'' \emph{DIW Berlin Discussion Paper}, 2008.
+
+\bibitem{ref_woldbank}
+\BIBentryALTinterwordspacing
+``New country classifications income level,'' 2019, [Online; Acessado 27 de
+  Junho 2019]. [Online]. Available:
+  \url{https://blogs.worldbank.org/opendata/new-country-classifications-income-level-2017-2018}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ref_floresta}
+J.~Papa, ``Classificação supervisionada de padrões utilizando floresta de
+  caminho ótimos,'' \emph{Programa de pós-graduação: Doutorado em Ciência
+  da Computação}, 2008.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.28)  25 JUN 2019 23:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.28)  30 JUN 2019 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -416,7 +416,26 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) (./Main.aux)
+)) (./Main.aux
+
+LaTeX Warning: Label `f.nunes' multiply defined.
+
+
+LaTeX Warning: Label `f.nunes' multiply defined.
+
+
+LaTeX Warning: Label `f.nunes' multiply defined.
+
+
+LaTeX Warning: Label `f.nunes' multiply defined.
+
+
+LaTeX Warning: Label `f.nunes' multiply defined.
+
+
+LaTeX Warning: Label `f.cronograma' multiply defined.
+
+)
 \openout1 = `Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -431,8 +450,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
-
-(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count90
 \scratchdimen=\dimen106
@@ -497,39 +515,140 @@ e
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5]
+[2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 189.
+(Font)              <7> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 189.
- <figs/cronograma.png, id=25, 540.0175pt x 276.03125pt>
+(Font)              <5> on input line 120.
+ <figs/kmeans.png, id=19, 790.955pt x 239.89626pt>
+File: figs/kmeans.png Graphic file (type png)
+
+<use figs/kmeans.png>
+Package pdftex.def Info: figs/kmeans.png used on input line 120.
+(pdftex.def)             Requested size: 199.16928pt x 60.40585pt.
+ <figs/kmeans-alg.png, id=20, 184.69pt x 76.285pt>
+File: figs/kmeans-alg.png Graphic file (type png)
+
+<use figs/kmeans-alg.png>
+Package pdftex.def Info: figs/kmeans-alg.png used on input line 134.
+(pdftex.def)             Requested size: 68.28644pt x 28.20522pt.
+ [4 <./figs/kmeans.png>]
+<figs/svm.png, id=26, 336.25626pt x 320.19624pt>
+File: figs/svm.png Graphic file (type png)
+ <use figs/svm.png>
+Package pdftex.def Info: figs/svm.png used on input line 152.
+(pdftex.def)             Requested size: 85.35826pt x 81.28008pt.
+ [5 <./figs/kmeans-alg.png> <./figs/svm.png>] [6]
+<figs/fluxograma.png, id=35, 452.69125pt x 218.8175pt>
+File: figs/fluxograma.png Graphic file (type png)
+
+<use figs/fluxograma.png>
+Package pdftex.def Info: figs/fluxograma.png used on input line 204.
+(pdftex.def)             Requested size: 256.0748pt x 123.77902pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 212.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 212.
+ [7 <./figs/fluxograma.png>] <figs/gdp_results.png, id=42, 326.21875pt x 166.62
+25pt>
+File: figs/gdp_results.png Graphic file (type png)
+
+<use figs/gdp_results.png>
+Package pdftex.def Info: figs/gdp_results.png used on input line 238.
+(pdftex.def)             Requested size: 142.26378pt x 72.66579pt.
+
+<figs/kmeans_results.png, id=43, 330.23375pt x 169.63374pt>
+File: figs/kmeans_results.png Graphic file (type png)
+
+<use figs/kmeans_results.png>
+Package pdftex.def Info: figs/kmeans_results.png used on input line 261.
+(pdftex.def)             Requested size: 142.26378pt x 73.08086pt.
+
+<figs/kmeans_cities.png, id=44, 577.15625pt x 356.33125pt>
+File: figs/kmeans_cities.png Graphic file (type png)
+
+<use figs/kmeans_cities.png>
+Package pdftex.def Info: figs/kmeans_cities.png used on input line 274.
+(pdftex.def)             Requested size: 227.62204pt x 140.53453pt.
+
+<figs/gdp_cities.png, id=45, 577.15625pt x 356.33125pt>
+File: figs/gdp_cities.png Graphic file (type png)
+
+<use figs/gdp_cities.png>
+Package pdftex.def Info: figs/gdp_cities.png used on input line 285.
+(pdftex.def)             Requested size: 227.62204pt x 140.53453pt.
+
+<figs/svm_cities.png, id=46, 577.15625pt x 356.33125pt>
+File: figs/svm_cities.png Graphic file (type png)
+
+<use figs/svm_cities.png>
+Package pdftex.def Info: figs/svm_cities.png used on input line 296.
+(pdftex.def)             Requested size: 227.62204pt x 140.53453pt.
+ [8 <./figs/gdp_results.png> <./figs/kmeans_results.png>]
+
+LaTeX Warning: Text page 9 contains only floats.
+
+[9 <./figs/kmeans_cities.png> <./figs/gdp_cities.png> <./figs/svm_cities.png>]
+<figs/cronograma.png, id=58, 595.22375pt x 212.795pt>
 File: figs/cronograma.png Graphic file (type png)
 
 <use figs/cronograma.png>
-Package pdftex.def Info: figs/cronograma.png used on input line 189.
-(pdftex.def)             Requested size: 341.43306pt x 174.52817pt.
- [6 <./figs/cronograma.png>] (./Main.bbl) [7]
-(./Main.aux) ) 
+Package pdftex.def Info: figs/cronograma.png used on input line 313.
+(pdftex.def)             Requested size: 341.43306pt x 122.06393pt.
+ [10 <./figs/cronograma.png>]
+<figs/svm_final.png, id=63, 209.78375pt x 91.34125pt>
+File: figs/svm_final.png Graphic file (type png)
+ <use figs/svm_final.png>
+Package pdftex.def Info: figs/svm_final.png used on input line 336.
+(pdftex.def)             Requested size: 142.26378pt x 61.94257pt.
+
+[11 <./figs/svm_final.png>] (./Main.bbl
+Underfull \hbox (badness 1033) in paragraph at lines 35--39
+\T1/cmr/m/n/10 2018, [On-line; Aces-sado 27 de Ju-nho 2019]. [On-
+ []
+
+
+Overfull \hbox (20.19116pt too wide) in paragraph at lines 48--52
+\T1/cmr/m/n/10 onu-[]paises-[]chegam-[]a-[]acordo-[]sobre-[]nova-[]agenda-[]de-
+[]desenvolvimento-[]pos-[]2015/$ 
+ []
+
+
+Overfull \hbox (39.7138pt too wide) in paragraph at lines 105--109
+\T1/cmr/m/n/10 support-[]vector-[]machine-[]introduction-[]to-[]machine-[]learn
+ing-[]algorithms-[]934a444fca47$ 
+ []
+
+[12]) [13] (./Main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2713 strings out of 492995
- 34990 string characters out of 6132704
- 102843 words of memory out of 5000000
- 6224 multiletter control sequences out of 15000+600000
+ 2803 strings out of 492995
+ 36696 string characters out of 6132704
+ 103970 words of memory out of 5000000
+ 6301 multiletter control sequences out of 15000+600000
  11175 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,11n,25p,700b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-s
-uper-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfb
-x1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1
-200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx144
-0.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc2074.
-pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pf
-b></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on Main.pdf (7 pages, 348350 bytes).
+ 39i,11n,25p,756b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on Main.pdf (13 pages, 621267 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 103 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
