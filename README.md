@@ -11,9 +11,9 @@
 4 - Python/4_city_aggregator to struct data to be analyzed  
 
 ## Creating some AI  
-5 - Run 5_svm_classifier that is the SVM classifier to prepare our hipotesis  
-6 - Run 6_class_makers to create classes based on GDP and Kmeans  
-7 - Check the results!  
+5 - Run Python/5_svm_classifier that is the SVM classifier to prepare our hipotesis  
+6 - Run Python/6_class_makers to create classes based on GDP and Kmeans  
+7 - Check the results with Python/7_accurancy_validation.python and files from results folder (results/)!  
   
 # Observations  
 - Python/helpers has files that helped structure data  
