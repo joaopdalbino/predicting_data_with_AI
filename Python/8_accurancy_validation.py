@@ -3,8 +3,8 @@ import csv
 import unidecode
 import re
 
-file_classification_data = '../data/cities_classified_by_svm.csv'
-df_class_data = pd.read_csv(file_classification_data, delimiter=';',quotechar='|')
+file_classification_data = '../data/scored_GDP.csv'
+df_GDP = pd.read_csv(file_classification_data, delimiter=';',quotechar='|')
 
 def remove_accents(a):
     return unidecode.unidecode(a.decode('utf-8'))
@@ -14,18 +14,19 @@ def formatting_data(df):
 	df['CITY'] = map(lambda x: str(x).upper(), df['CITY'])
 	return df
 
-def binder(df1, df2, indicator):
+def binder(classified_df, gdp_df, indicator):
 
-	columns = ['INDEX', 'CITY', indicator, 'SVM', 'ACCURACY']
+	columns = ['INDEX', 'CITY', indicator, 'GDP', 'ACCURACY']
 	data = []
 	cont = 0
 	cont_ac = 0
 	file_name = '../results/accuracy_validation_'+indicator
-	for index, row in df2.iterrows():
-		r = df1.loc[df1['CITY'] == row['CITY']]
+	for index, row in classified_df.iterrows():
+		r = gdp_df.loc[gdp_df['CITY'] == row['CITY']]
 		if len((r['CLASS']).values) > 0:
 			if len((r['CLASS']).values) > 0:
 				v = int((r['CLASS']).values)
+			print r['CLASS'].values
 			# c = int(re.search(r'\d+',row['CLASS']).group())
 			c = row['CLASS']
 			if v == c:
@@ -57,14 +58,14 @@ def binder(df1, df2, indicator):
 
 if __name__ == '__main__':
 
-	indicators = ['GDP', 'KMEANS']
+	indicators = ['SVM', 'KMEANS']
 
 	for indicator in indicators:
 
 		filename_social = '../data/scored_'+indicator+'.csv'
-		df_social_data = pd.read_csv(filename_social, delimiter=';', decimal=',')
+		df_classfied = pd.read_csv(filename_social, delimiter=';', decimal=',')
 
-		df_social_data = formatting_data(df_social_data)
-		df_class_data = formatting_data(df_class_data)
+		df_classfied = formatting_data(df_classfied)
+		df_GDP = formatting_data(df_GDP)
 
-		df = binder(df_social_data, df_class_data, indicator)
+		df = binder(df_classfied, df_GDP, indicator)

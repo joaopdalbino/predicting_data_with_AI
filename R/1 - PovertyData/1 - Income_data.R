@@ -13,7 +13,7 @@ library("data.table")
 library("readxl")
 
 #read basic csv
-data_basic <- read.csv("data/cities_data.csv")
+data_basic <- read.csv("data/scored_GDP.csv")
 
 #read income data
 data_income <- read_xls("data/ipeadata/Renda per capita - 1991 a 2000.xls")

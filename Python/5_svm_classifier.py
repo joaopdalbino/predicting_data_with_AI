@@ -75,7 +75,7 @@ def get_array(index, df):
 
 def get_city_name(df, clf):
 
-	file = path_to_save+'cities_classified_by_svm.csv'
+	file = path_to_save+'scored_SVM.csv'
 
 	for index, row in df.iterrows():
 		city_name = row['CITY']
