@@ -1,4 +1,4 @@
-# predicting_data_with_AI  
+# predicting Sao Paulo State GDP rates
 
 ## This project aims to develop an AI system capable of predicting poverty rate in the state of Sao Paulo, Brazil 
 
